@@ -1,14 +1,18 @@
 ### Hey! I'm Tony 👋
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+- 🔭 I’m currently working on two full stack applications in both JavaScript/Express and Python/Flask
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hauck29&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hauck29&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **hauck29/hauck29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
