@@ -18,7 +18,9 @@
 - 📫 Personal Links: 
 
    > anthony.hauck@aol.com
+   
    > [LinkedIn](https://www.linkedin.com/in/tony-hauck-92b6a21a4/)
+   
    > [GitHub](https://github.com/hauck29)
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hauck29&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
