@@ -12,9 +12,9 @@
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 
 
-- 🔭 I’m currently working on two full stack applications in both JavaScript/Express and Python/Flask
-- 💬 Ask me about electric vechile automation and basketball
-- - ⚡ Fun fact: Uranus takes 84 years to roll around the sun along it's equator, due to ancient impacts, so each season is 29 years long.
+- 🔭 I’m currently working on two full stack applications in both JavaScript/Express and Python/Flask.
+- 💬 Ask me about electric vechile automation and basketball for information, or anything else for conversation.
+- ⚡ Fun fact: Uranus takes 84 years to roll around the sun along it's equator, due to ancient impacts, so each season is 29 years long.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hauck29&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
