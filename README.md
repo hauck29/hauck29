@@ -25,7 +25,7 @@
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hauck29&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Vernacular](https://github-readme-stats.vercel.app/api/top-langs/?username=hauck29&layout=compact&show_icons=true&theme=dark)](https://github.com/hauck29/github-readme-stats)
+<!-- [![Vernacular](https://github-readme-stats.vercel.app/api/top-langs/?username=hauck29&layout=compact&show_icons=true&theme=dark)](https://github.com/hauck29/github-readme-stats) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hauck29}.${hauck29})
 
