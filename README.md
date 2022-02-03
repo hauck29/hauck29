@@ -14,7 +14,7 @@
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 
 
-- 🔭 I’m currently working on two full stack applications in both JavaScript/Express and Python/Flask.
+- 🔭 I’m currently working on refining and refactoring two full stack applications with both JavaScript/Express and Python/Flask backends and React/Redux frontends.
 - 💬 Ask me about electric vechile automation and basketball for information, or anything else for conversation.
 - ⚡ Fun fact: Uranus takes 84 years to roll around the sun along it's equator, due to ancient impacts, so each season is 29 years long.
 - 📫 Personal Links: 
