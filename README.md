@@ -16,16 +16,14 @@
 - 💬 Ask me about electric vechile automation and basketball for information, or anything else for conversation.
 - ⚡ Fun fact: Uranus takes 84 years to roll around the sun along it's equator, due to ancient impacts, so each season is 29 years long.
 - 📫 Personal Links: 
+   
+   > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-hauck-92b6a21a4/)
 
    > anthony.hauck@aol.com
-   
-   > [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://www.linkedin.com/in/tony-hauck-92b6a21a4/)
-   
-   > [GitHub](https://github.com/hauck29)
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hauck29&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Vernacular](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/hauck29/github-readme-stats)
+[![Vernacular](https://github-readme-stats.vercel.app/api/top-langs/?username=hauck29&layout=compact&show_icons=true&theme=dark)](https://github.com/hauck29/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${hauck29}.${hauck29})
 
