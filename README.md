@@ -19,7 +19,7 @@
 
    > anthony.hauck@aol.com
    
-   > [LinkedIn](https://www.linkedin.com/in/tony-hauck-92b6a21a4/)
+   > [https://i.imgur.com/gvgPFcE.png]: (https://www.linkedin.com/in/tony-hauck-92b6a21a4/)
    
    > [GitHub](https://github.com/hauck29)
 
